@@ -1,0 +1,8 @@
+Emissive sur la statue
+Portail
+Statue en métal
+Despawn des mobs
+Effet warp sur les mobs finaux
+Dégâts sur les mobs
+Rougeur sur l'écran sur les dégâts
+(Vent sur le sable au loin)
